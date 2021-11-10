@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLEDB", "OLEDB\OLEDB.csproj", "{E6D1C939-4335-4651-8F17-4B774A78FE45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D1C939-4335-4651-8F17-4B774A78FE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D1C939-4335-4651-8F17-4B774A78FE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D1C939-4335-4651-8F17-4B774A78FE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D1C939-4335-4651-8F17-4B774A78FE45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ADBBC1A-158C-40E2-9EBD-7EC09E2D5336}
+	EndGlobalSection
+EndGlobal
